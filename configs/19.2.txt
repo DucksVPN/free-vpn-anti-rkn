@@ -1,5 +1,5 @@
 # Подписка 19.2.txt | V2rayCollector (полный)
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-24-Feb-2026 07:44
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-24-Feb-2026 09:26
 vless://4ed6948d-0beb-f7ca-18e8-b4259eeb0dbb@ir.grbr.private-link.lornanet.ir:3130?security=reality&amp;encryption=none&amp;pbk=dQYahYS6055ghu03hkvNxv9geHCJHqASFVbXs3v1jDw&amp;headerType=none&amp;fp=safari&amp;spx=%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=rEfErSion.Com&amp;sid=e99768d076c05ab2#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://05ac3cee-cc13-4cde-bfbe-928974baa2e3@85.192.40.51:443?security=reality&amp;encryption=none&amp;pbk=nWGZxelG2CsJkJlZ2sJXxiLBQODS9xAetwdA4q0BwDI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 vless://d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73@zyro.adslimit.info:2345?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
