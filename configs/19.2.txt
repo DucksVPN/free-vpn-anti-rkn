@@ -1,5 +1,5 @@
 # Подписка 19.2.txt | V2rayCollector (полный)
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-26-Feb-2026 02:54
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-26-Feb-2026 05:12
 vless://18f72be7-0651-4037-928b-8a309d685796@game.pineappled.org:443?security=reality&amp;encryption=none&amp;pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=9eb31eb7572c0882#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig
 vless://4742b1aa-d4e1-4994-a344-fa9267e6b9ab@51.250.64.128:443?security=reality&amp;encryption=none&amp;pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=bunny.net#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.161.50.246:443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.v6.navy&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.v6.navy#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
