@@ -1,5 +1,5 @@
 # Подписка 19.2.txt | V2rayCollector (полный)
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-06-Mar-2026 18:03
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-06-Mar-2026 19:02
 vless://134df9e6-f224-4373-9439-a5ecea0fd9f7@vip.xqfire.ir:911?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=Telewebion.com#Test  
 vless://134df9e6-f224-4373-9439-a5ecea0fd9f7@vip.xqfire.ir:911?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=Telewebion.com#Test  
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%B8%F0%9F%87%AA%40FreakConfig
