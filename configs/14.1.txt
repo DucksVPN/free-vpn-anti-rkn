@@ -1,6 +1,5 @@
 # Подписка 14.1.txt | Mineral (короткий)
 vless://8b3eb5a9-2f8d-435f-865d-3437b02444b6@ja1.diiginet.ir:2000?security=&encryption=none&host=reata.ir&headerType=http&type=tcp#@meliproxyy
-vmess://eyJhZGQiOiJkQy0xLmNFblRyQWxOZVQuQ3YiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjJkODI0NWYtOGJjNi00MmVlLThlNTYtYzc3Y2RmYzJlMWM2IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMDAzIiwicHMiOiJAbWVsaXByb3h5eSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
 trojan://telegram-id-privatevpns@51.44.109.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.182.228.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.236.44.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
