@@ -252,3 +252,6 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WjdqcEhQaFhRdVkvQ0o3bmdway9GeEYrR3FCV2Q0S0I
 vless://778656bd-0721-466f-b48b#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WjdqcEhQaFhRdVkvQ0o3bmdway9GeEYrR3FCV2Q0S0IyRkxYV2JxWXBYST06MVBXL2VzaWl6K0hiTUtRTE9GbmpKVlE5TWN1ZElaVWM2K09DK01KTEZLdz0=@95.216.238.249:37337#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2QDEwMi4zNy4xNTYuMjI0OjQ0Mw==#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+vless://21a5d4cf-46d3-4f01-a5b4-a5d06ced6c29@meow.panbe.mom:2773?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40tik7net_vpn
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.59.161.217:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
