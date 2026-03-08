@@ -249,3 +249,4 @@ vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@dqf21.sdssd1.sadqwdw1.carvan1.mimki
 vless://f23b2b7e-c876-4f7f-bca5-20a4f57c3864@185.39.206.22:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.jobinvest.ru#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40configraygan
 vless://Anty_Vpn-Anty_Vpn-Anty_Vpn@gsoowjowj.toppho.ir:8443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40manVPN
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WjdqcEhQaFhRdVkvQ0o3bmdway9GeEYrR3FCV2Q0S0IyRkxYV2JxWXBYST06MVBXL2VzaWl6K0hiTUtRTE9GbmpKVlE5TWN1ZElaVWM2K09DK01KTEZLdz0%3D@95.216.238.249:37337#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+vless://778656bd-0721-466f-b48b#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
