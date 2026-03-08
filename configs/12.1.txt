@@ -177,3 +177,8 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.46.152:22224?type=ws&security
 vless://711f56b0-0d4c-4516-bea6-0e963749928c@144.31.90.249:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&security=reality&sni=my-rebar.shop&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2nodes
 vless://ab8543cd-0e65-4b74-f5ad-932cffe0a12a@37.156.145.183:40652?flow=&type=tcp&headerType=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 vless://73204fa1-c75a-4aa8-bc0a-6b62f08bace6@fn11.finuxmaster.shop:2095?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
+trojan://ynjuhp7v-m2fa-rdp8-wac6-8fwy2bkq99al@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+trojan://gb7aoob9-1vus-nw7s-suk8-ghevfexpu1jh@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+vless://69ab6d73-6db3-1c80-4eb6-2b91420c3944@cdns.doon.eu.org:443?type=ws&security=tls&path=/socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433&sni=6745d1ce.cloudorg.ccwu.cc&fp=random#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Trick_mobil
+vless://7d49a403-4956-4b05-b70b-98917a79a8ca@sv7.zestifypro.com:7030?encryption=none&type=tcp&headerType=http&path=%2F#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
+vless://9e6b86b9-dd24-4132-80cc-ca1de3a07fe7@sv5.zestifypro.com:5050?encryption=none&type=tcp&headerType=http&path=%2F#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
