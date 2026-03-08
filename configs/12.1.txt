@@ -256,3 +256,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2QDEwMi4zNy4xNTY
 vless://21a5d4cf-46d3-4f01-a5b4-a5d06ced6c29@meow.panbe.mom:2773?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40tik7net_vpn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.59.161.217:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
 vless://ff9ff58e-fcf8-4829-9269-6c3e0701b84a@dlc-srv1.coreping.top:8443?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+vless://b89959f5-9aee-4aa1-a4c7-41d6259ea71c@STAR-17.starz-net.com:2075?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+vless://cfba2ce4-a114-49e0-8d11-0738dcc26afb@s1.choosename.org:443?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
