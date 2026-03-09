@@ -291,3 +291,8 @@ vless://c57492f6-0c19-4b70-9f12-2e369338410d@78.47.172.250:2052?type=tcp&encrypt
 vless://d40e96b2-0203-4e62-bffb-cc8f338917dd@L-iq-emergency2-7788yo.j0je.ir:5480?security=none&allowInsecure=0&encryption=none&type=tcp&host=anten.ir&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40saministamm
 vless://b75cd8b7-2a88-4753-8b2c-e621267c74a1@iranispowerdontclicknowarnomiddleeast.qwedsavnm.fun:27627?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
 vless://9cde6dc4-d7af-4780-acaa-0ee36107c560@2.188.241.144:29332?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=df8611c07d#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40filembad
+vless://c060fd93-7114-e7e8-70cb-1325dbce2da4@[::ffff:98e9:0d0a]:49888?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+vless://c060fd3b-d9bc-4f40-d863-bb8d736685dd@[::ffff:5eb8:071e]:49888?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
+vless://07fef602-6d99-4263-8d0b-08f183ce34df@[::ffff:bc72:6003]:443?path=%2F176939%2Fc060fda8-4a2f-dcd3-4bf0-281ee0f516d5%2Fh2_[::ffff:bc72:6003]_443_pAnEL.tiicAEro.iR/?ed%3D2048&security=tls&alpn=h3&encryption=none&host=pAnEL.tiicAEro.iR&fp=firefox&type=ws&sni=pAnEL.tiicAEro.iR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40filembad
+vless://c060fd82-6005-f6f9-61da-0234cadf3c00@[::ffff:b9c9:311e]:58396?security=none&encryption=none&host=arvancloud.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40filembad
