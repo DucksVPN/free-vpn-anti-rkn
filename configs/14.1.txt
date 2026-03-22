@@ -1,10 +1,10 @@
 # Подписка 14.1.txt | Mineral (короткий)
-vmess://eyJhZGQiOiIxODguMTE0Ljk4LjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC0xNjIxOTEwOTkuc2hhcmdoZGFpbHkuY28iLCJpZCI6Im5hc25ldCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuP2VkPTI1NjAvP1RFTEVHUkFNLS1LQU5BTC0tSktWUE4tLUpLVlBOLS1KS1ZQTi0tSktWUE4tLUpLVlBOLS1KS1ZQTiIsInBvcnQiOiI4MDgwIiwicHMiOiJWUE5ub2JvZHktNDY0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-trojan://telegram-id-privatevpns@51.45.15.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@15.224.128.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@18.159.140.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@15.188.155.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@18.195.58.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@15.237.55.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.73.207.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@35.181.241.230:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.38.195.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.123.214.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=safari&type=ws&allowInsecure=0&sni=broad-sky-9360.k7uztejf9ief.workers.dev#https://t.me/ConfigX2ray
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#%outline_ir
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0@46.38.143.236:60633#%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D9%88%D8%B1%20%D9%87%D8%A7%DB%8C%20%DA%86%D9%86%D9%84%F0%9F%8D%A6%40Outline_ir
 vless://fd058cd3-55fa-43ce-a634-1920b7d12c45@104.128.134.181:34816?security=none&encryption=none&headerType=none&type=tcp#%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D9%88%D8%B1%20%D9%87%D8%A7%DB%8C%20%DA%86%D9%86%D9%84%F0%9F%8D%A6%40Outline_ir
