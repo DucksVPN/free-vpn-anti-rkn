@@ -1,6 +1,6 @@
 # Подписка 14.1.txt | Mineral (короткий)
-vless://ffb10891-526b-43a6-a4d1-1ea61e0a3a6f@217.149.31.81:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=07mSyG8LHbJZcq8cAydF4ehhnskG3GjdvhnKkSvRsgA&fp=chrome&spx=%2F&type=xhttp&sni=yandex.ru&sid=6d38c1f30520#https://t.me/ConfigX2ray
-vless://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=cpcalendars.digital-ping.ir&fp=chrome&type=ws&sni=cpcalendars.digital-ping.ir#https://t.me/ConfigX2ray
+vmess://eyJhZGQiOiJtZWwuaWRiZWRlLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlODM5MjI3OS0xYTRiLTRiMzAtOThjYy0wNzYyMDIwZWY0NmYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg0NDMiLCJwcyI6ImZpbGVtYmFkLTQyMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://bc6f9208-ba56-4678-a29c-afc8b8af9b89@77.83.245.135:34205?security=none&encryption=none&headerType=none&type=tcp#.https://t.me/ConfigX2ray
 trojan://telegram-id-privatevpns@63.177.162.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.44.137.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.199.182.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
