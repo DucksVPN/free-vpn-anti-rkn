@@ -1,4 +1,5 @@
 # Подписка 14.1.txt | Mineral (короткий)
+vmess://eyJhZGQiOiIxODUuMjI2LjExNi4xOTUiLCJob3N0IjoiIiwiaWQiOiI5MDE3OTZmYy04ZjVkLTRkMWQtOTIyZS0xMTJlYzBlZWE0ZTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiTmV0TWVsaTktNDAyIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIn0
 vless://27eb0fca-8d45-4b8c-8bf2-a29451146f42@mahdi.netvip1.ru:2087?path=%2F&security=none&encryption=none&type=ws#https://t.me/ConfigX2ray
 vless://bc6f9208-ba56-4678-a29c-afc8b8af9b89@77.83.245.135:34205?security=none&encryption=none&headerType=none&type=tcp#https://t.me/ConfigX2ray
 vless://d435363f-b221-428b-94d2-8d0db0113b60@104.24.55.23:443?path=ws&security=tls&encryption=none&host=fancy-disk-fbb6.tmpesterouglas.workers.dev&fp=chrome&type=ws&sni=fancy-disk-fbb6.tmpesterouglas.workers.dev#%outline_ir
