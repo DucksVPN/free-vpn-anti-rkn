@@ -1,5 +1,5 @@
 # Подписка 14.1.txt | Mineral (короткий)
-vless://8e0a63a9-e44c-42f3-8274-0cd1f282e3e7@ir.gafe-lorbad.ir:443?security=none&encryption=none&headerType=none&type=tcp#https://t.me/ConfigX2ray
+vmess://eyJhZGQiOiI5NC4xMDEuMTg1LjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjAwY2I4Zjc0LWMxZmYtNDRlZC1hM2Q2LWY3MTE3MTM1OWQ4MSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoiTmV0TWVsaTktNDI0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
 trojan://telegram-id-privatevpns@13.37.130.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.70.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.36.51.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
