@@ -1,5 +1,5 @@
 # Подписка 23.1.txt | Xray (короткий)
-vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@v3.dabache.top:443?type=ws&security=tls&encryption=none&sni=vangoghhh.info&path=/tixvuws&host=vangoghhh.info#🌐 verified · t.me/XRayCheck
+vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@v3.dabache.top:443?type=ws&security=tls&encryption=none&sni=vangoghhh.info&path=/tixvuws&host=vangoghhh.info#🇨🇦 verified · t.me/XRayCheck
 vless://7f37b28b-cfcb-4c2a-ae41-8f2ddc9325dd@est.vles.space:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=5Tz44GqhEgM6Q-kOX0WQ6voGySL5sOEeABSUsFDY8Uw&sid=21c7fb5ed34c260c&sni=sun2-16.userapi.com#🌐 verified · t.me/XRayCheck
 vless://c313d111-d58e-42ac-8d77-8caca4e1dcaa@95.163.180.23:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=Us7U978Q2jZwoEFoPxkv-fR1A4N0ehZVX_T9KwzXH3s&sid=f69d7af6d5fc3e0c#🌐 verified · t.me/XRayCheck
 vless://32979f0e-5eab-47de-88ab-a9fe9610de55@62.152.59.103:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=eh.vk.com&pbk=W35StMkmGPguLMNX8_ezl8Hm0NQ3MFR7rpcbWRrOCyY&sid=5FA44664f6a566d3#🌐 verified · t.me/XRayCheck
@@ -27,7 +27,7 @@ vless://5f98c4f8-19f4-471d-8ed5-10c0550c0423@150.241.75.139:443?type=tcp&securit
 vless://mega2499@5.129.249.134:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ir.ozone.ru&fp=chrome&security=reality&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2#🌐 verified · t.me/XRayCheck
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.18.132.149:2053?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#🌐 verified · t.me/XRayCheck
 vless://90c9c25c-df6c-4438-83d3-ef97166a9184@45.66.163.194:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&security=reality&sni=5post-gate.x5.ru&type=tcp#🌐 verified · t.me/XRayCheck
-vless://1babf197-af69-406e-aae2-83c411ae979f@144.31.166.42:5443?mode=gun&security=reality&encryption=none&authority=&pbk=MNtVuRK9ydQoPjI2vMSkZMUpwAEjH5qq3hr9kTt2CHk&fp=chrome&type=grpc&serviceName=&sni=eh.vk.com&sid=3ef8cdbc#🇩🇪 verified · t.me/XRayCheck
+vless://1babf197-af69-406e-aae2-83c411ae979f@144.31.166.42:5443?mode=gun&security=reality&encryption=none&authority=&pbk=MNtVuRK9ydQoPjI2vMSkZMUpwAEjH5qq3hr9kTt2CHk&fp=chrome&type=grpc&serviceName=&sni=eh.vk.com&sid=3ef8cdbc#🌐 verified · t.me/XRayCheck
 vless://b8ae3c37-37d6-4d4d-93fc-1ce0bc329ba0@172.66.43.27:2096?type=ws&security=tls&encryption=none&sni=free-server.techsonic.ggff.net&path=/@Tech_Sonic&host=free-server.techsonic.ggff.net#🌐 verified · t.me/XRayCheck
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.183.225:8443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#🌐 verified · t.me/XRayCheck
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.14:8443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#🌐 verified · t.me/XRayCheck
@@ -110,3 +110,4 @@ vless://36cdf966-aa90-4a20-838f-e58de6afdfb1@45.84.222.30:443?flow=xtls-rprx-vis
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.155.252:8443/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.dynv6.net#🌐 verified · t.me/XRayCheck
 vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?&security=tls&alpn=h2&sni=uk1.fromblancwithlove.com&type=tcp&headerType=none&host=uk1.fromblancwithlove.com&path=%2F#🌐 verified · t.me/XRayCheck
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.128.32.98:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🌐 verified · t.me/XRayCheck
+vless://96a1cd77-d7f8-42b6-86c1-29a2e2e85ea0@194.36.39.74:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&sid=f1071c148a5aefc4#🌐 verified · t.me/XRayCheck
