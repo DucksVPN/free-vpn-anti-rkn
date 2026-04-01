@@ -1,11 +1,11 @@
 # Подписка 14.1.txt | Mineral (короткий)
-vmess://eyJhZGQiOiJtZWwudXNkdGJhbWEuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjE3MWQ1N2IyLTM1MzgtNDk3ZS05ZGZlLTkwYTUyNjAxMmIxZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoiZmlsZW1iYWQtMzcwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
-vless://db4eae55-b4f6-4e9c-ab4c-4a3758c73fd8@po.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#https://t.me/ConfigX2ray
-trojan://telegram-id-privatevpns@3.79.124.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@15.237.136.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@15.188.43.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@3.78.2.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.37.210.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+vmess://eyJhZGQiOiI2MS4yNDUuMTEuNjAiLCJhaWQiOjAsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImEzZTNhNzEwLTc5ZjgtNGFlMC1iODNjLTYwN2FhYjQwZDE5NyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0Ijo4MCwicHMiOiJmaWxlbWJhZC0zODgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiYXV0byIsInR5cGUiOiJub25lIiwidiI6IjIifQ
+vless://41c143e8-5222-42fb-a43b-98a709afa171@omgspacir.clearpa66thdata.shop:26277?type=tcp&encryption=none&security=none#https://t.me/ConfigX2ray
+vless://88df4b42-f464-4a5d-b239-031cb613fd20@my4.tehranhost.mom:37004?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.digikala.com&sid=c385#@meliproxyy
+trojan://telegram-id-privatevpns@15.236.83.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.77.5.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@51.44.121.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.120.57.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 vless://bc019623-ecae-4ee0-8826-6e96f6942263@lithuania1.labburo.su:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=Md6aue1Va7LhOd3dfKwSV4GnRCJYKyzf1JmGlD-7IH8&sid=3c7dbf0e7bd3d03c&sni=lithuania1.labburo.su&path=&host=#outline_ir
 vless://17c4e377-ea15-07d0-98b2-3e348c9ff5d9@46.235.189.157:443?path=%2F%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=lk-cdn.deploy-assure.ru&fp=chrome&type=ws&sni=lk-cdn.deploy-assure.ru#%outline_ir
 vless://telegram-id-Arfilter@156.243.83.167:443?path=%2F-Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEl--@Arfilter%3Fed%3D2048&security=tls&encryption=none&host=cdn-alman1.arfilter2.blog&fp=firefox&type=ws&sni=cdn-alman1.arfilter2.blog#TLS-Irancell%20%7C%20%40ArV2ray
