@@ -1,13 +1,13 @@
 # Подписка 14.1.txt | Mineral (короткий)
 vmess://eyJhZGQiOiJtZWwudXNkdGJhbWEuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjE3MWQ1N2IyLTM1MzgtNDk3ZS05ZGZlLTkwYTUyNjAxMmIxZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoiZmlsZW1iYWQtMzcwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
-vless://41c143e8-5222-42fb-a43b-98a709afa171@omgspacir.clearpa66thdata.shop:26277?type=tcp&encryption=none&security=none#https://t.me/ConfigX2ray
-vless://88df4b42-f464-4a5d-b239-031cb613fd20@my4.tehranhost.mom:37004?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.digikala.com&sid=c385#@meliproxyy
-vless://d435363f-b221-428b-94d2-8d0db0113b60@104.24.55.23:443?path=ws&security=tls&encryption=none&host=fancy-disk-fbb6.tmpesterouglas.workers.dev&fp=chrome&type=ws&sni=fancy-disk-fbb6.tmpesterouglas.workers.dev#%outline_ir
-trojan://telegram-id-privatevpns@15.224.22.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@63.179.68.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.37.173.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@15.188.132.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@3.122.157.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+vless://db4eae55-b4f6-4e9c-ab4c-4a3758c73fd8@po.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#https://t.me/ConfigX2ray
+trojan://telegram-id-privatevpns@3.79.124.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@15.237.136.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@15.188.43.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.78.2.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.37.210.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+vless://bc019623-ecae-4ee0-8826-6e96f6942263@lithuania1.labburo.su:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=Md6aue1Va7LhOd3dfKwSV4GnRCJYKyzf1JmGlD-7IH8&sid=3c7dbf0e7bd3d03c&sni=lithuania1.labburo.su&path=&host=#outline_ir
+vless://17c4e377-ea15-07d0-98b2-3e348c9ff5d9@46.235.189.157:443?path=%2F%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=lk-cdn.deploy-assure.ru&fp=chrome&type=ws&sni=lk-cdn.deploy-assure.ru#%outline_ir
 vless://telegram-id-Arfilter@156.243.83.167:443?path=%2F-Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEl--@Arfilter%3Fed%3D2048&security=tls&encryption=none&host=cdn-alman1.arfilter2.blog&fp=firefox&type=ws&sni=cdn-alman1.arfilter2.blog#TLS-Irancell%20%7C%20%40ArV2ray
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#%40vpnfail_bot%20free%v2ray
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=&encryption=none&type=grpc#%40vpnfail_bot%20free%v2ray
